@@ -8,6 +8,6 @@ Student ID: 38980
 
 - Task1.pkt – Basic Router Configuration
 - Task02.pkt – Static Routing Configuration
-- Task03.pkt RIP Dynamic Routing Configuration
+- Task03.pkt - Dynamic Routing Configuration
 
 This repository contains the Cisco Packet Tracer files for the Computer Networks routing assignment.
